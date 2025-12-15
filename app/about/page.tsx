@@ -3,8 +3,7 @@ export default function About() {
     <section className="space-y-6">
       <h1 className="text-3xl font-bold">About</h1>
       <p className="text-slate-700">
-        I’m Varun — a developer who enjoys building clean, accessible web
-        interfaces. I focus on React, Next.js, and modern CSS with Tailwind.
+        A HYDERABAD BASED COMPANY
       </p>
 
       <div className="mt-4 grid gap-4 sm:grid-cols-2">
